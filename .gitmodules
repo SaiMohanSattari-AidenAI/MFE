@@ -1,0 +1,9 @@
+[submodule "Parent"]
+	path = Parent
+	url = https://github.com/SaiMohanSattari-AidenAI/Parent.git
+[submodule "child1"]
+	path = child1
+	url = https://github.com/SaiMohanSattari-AidenAI/child1.git
+[submodule "child2"]
+	path = child2
+	url = https://github.com/SaiMohanSattari-AidenAI/child2.git
